@@ -14,4 +14,6 @@ We run our whole house on [Home Assistant](https://www.home-assistant.io/) – l
 
 If something here saves you time: [buy me a coffee](https://ko-fi.com/johnkily) ☕
 
+**Manufacturers:** we test devices that fit our home and review them honestly with real data – [reach, how we review, contact](https://kilysworld.com/kooperation/#for-manufacturers).
+
 <sub>🇩🇪 Alles auch auf Deutsch – im Blog und in den Anleitungen.</sub>
