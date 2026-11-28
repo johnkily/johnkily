@@ -12,7 +12,7 @@ We run our whole house on [Home Assistant](https://www.home-assistant.io/) – l
 
 **Our setup:** Home Assistant on a Proxmox cluster of three used Dell Wyse 5070 · Zigbee2MQTT on an SLZB-06 · evcc for the wallbox · AWTRIX pixel clocks · an AI caretaker that builds approved tickets at night ([how that works](https://kilysworld.com/in-english/#ai-caretaker))
 
-If something here saves you time: [buy me a coffee](https://ko-fi.com/johnkily) ☕
+If something here saves you time: [buy me a coffee or tea](https://ko-fi.com/johnkily) ☕
 
 **Manufacturers:** we test devices that fit our home and review them honestly with real data – [reach, how we review, contact](https://kilysworld.com/kooperation/#for-manufacturers).
 
